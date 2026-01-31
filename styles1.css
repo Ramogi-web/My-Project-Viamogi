@@ -1,0 +1,13 @@
+#section5{
+    background-color: rgb(245, 239, 239);
+}
+.amazingsceneries{
+    background-color: rgb(245, 244, 244);
+    color: rgb(8, 145, 67);
+    text-decoration: underline;
+    padding: 20px;
+    text-transform: capitalize;
+}
+.dealpar{
+    background-color: chartreuse;
+}
